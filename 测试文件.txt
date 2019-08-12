@@ -1,1 +1,3 @@
 这是一个git练习文件
+
+测试sparse-checkout
